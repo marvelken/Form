@@ -1,0 +1,36 @@
+h1{
+    background-color:  #B2BEB5;
+    padding: auto ;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.myForm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: auto;
+    padding-right: 30%;
+    background-color:#B2BEB5 ;
+    margin-left: 50px;
+    margin-right: 80px;
+}
+input{
+    width: 150%;
+    margin: 0%;
+    padding: 3%;
+    border-radius: 5px;
+}
+.btn{
+    padding: auto;
+    padding: 4x;
+    margin: 0%;
+    width: 150;
+    margin-top: 5%;
+    margin-bottom: 4%;
+    padding-right: 5%;
+    background-color:black ;
+    color: white;
+}
